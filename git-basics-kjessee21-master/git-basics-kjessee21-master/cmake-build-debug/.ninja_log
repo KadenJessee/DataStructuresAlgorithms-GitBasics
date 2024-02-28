@@ -1,0 +1,4 @@
+# ninja log v5
+3	43	6808255782322305	CMakeFiles/git_basics.dir/src/StringFunctions.cpp.obj	87e8d2890d5facf0
+0	265	6808255784522314	CMakeFiles/git_basics.dir/src/StringFunctionsTest.cpp.obj	280efe7c76916547
+266	340	6808255785262296	git_basics.exe	399e10666b875e72

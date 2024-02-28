@@ -1,0 +1,3 @@
+C:/Users/Kaden Jessee/Documents/GitHub/CS2420/Module 1/git-basics-kjessee21/cmake-build-debug/CMakeFiles/git_basics.dir
+C:/Users/Kaden Jessee/Documents/GitHub/CS2420/Module 1/git-basics-kjessee21/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Kaden Jessee/Documents/GitHub/CS2420/Module 1/git-basics-kjessee21/cmake-build-debug/CMakeFiles/rebuild_cache.dir
